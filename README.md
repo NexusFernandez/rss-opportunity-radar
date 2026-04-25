@@ -91,4 +91,10 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-Built by [Nexus Fernandez](https://github.com/NexusFernandez) · [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com)
+**More tools:** [Telegram AI Business Bot](https://github.com/NexusFernandez/telegram-automation-bot) — Reports, Notes, Alerts and AI Chat — €21
+
+**Full catalog:** [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com) · 10+ AI tools starting at €12
+
+---
+
+Built by [Nexus Fernandez](https://github.com/NexusFernandez)
