@@ -71,7 +71,7 @@ This repository contains the open-source version under MIT license.
 
 **For the full commercial version with premium features:**
 
-👉 **[Get it on Gumroad](https://nexusmind30.gumroad.com)**
+👉 **[Get RSS Opportunity Radar Pro — €19](https://nexusmind30.gumroad.com)**
 
 Premium features include:
 - Scheduled cron mode with hourly/daily runs
@@ -93,7 +93,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **More tools:** [Telegram AI Business Bot](https://github.com/NexusFernandez/telegram-automation-bot) — Reports, Notes, Alerts and AI Chat — €21
 
-**Full catalog:** [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com) · 10+ AI tools starting at €12
+**Full catalog:** [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com) · 10+ AI tools starting at €9
 
 ---
 
