@@ -1,12 +1,20 @@
-# 📡 RSS Opportunity Radar
+<h1 align="center">📡 RSS Opportunity Radar</h1>
 
-> AI-powered RSS feed monitor that filters opportunities by keywords and generates digest summaries.
+<p align="center">
+  <strong>AI-powered RSS feed monitor that filters opportunities by keywords and generates digest summaries.</strong><br>
+  Runs 100% locally with Ollama. No API keys. No subscriptions.
+</p>
 
-Built for founders, freelancers, and operators who want to **catch signals before competitors**.
+<p align="center">
+  <a href="https://nexusmind30.gumroad.com/l/usxexm">
+    <img src="https://img.shields.io/badge/Get%20Pro%20Version-Gumroad-36b37e?style=for-the-badge&logo=gumroad" alt="Get on Gumroad">
+  </a>
+  <a href="https://github.com/NexusFernandez/rss-opportunity-radar/stargazers">
+    <img src="https://img.shields.io/github/stars/NexusFernandez/rss-opportunity-radar?style=social" alt="Stars">
+  </a>
+</p>
 
-![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![Ollama](https://img.shields.io/badge/AI-Ollama-orange)
+---
 
 ## ✨ Features
 
@@ -35,8 +43,8 @@ cat opportunities.md
 
 ### Prerequisites
 
-- Python 3.10+
-- [Ollama](https://ollama.ai) running locally (for AI summaries)
+- **Python 3.10+**
+- **[Ollama](https://ollama.ai)** running locally (for AI summaries)
 
 ## 📋 Output Format
 
@@ -65,15 +73,20 @@ python radar.py --feeds <url> --keywords <words> --output-dir ./my-digests
 OLLAMA_MODEL=llama3 python radar.py --feeds <url> --keywords <words>
 ```
 
-## 🔗 Commercial License
+## 🔒 Privacy First
 
-This repository contains the open-source version under MIT license.
+| Feature | RSS Opportunity Radar | Typical SaaS Monitor |
+|:--------|:----------------------|:---------------------|
+| **Your feeds** | Stay on your machine | Sent to cloud |
+| **AI processing** | Local (Ollama) | Remote API |
+| **API keys needed** | None | OpenAI, etc. |
+| **Monthly cost** | €0 after purchase | $10-50/month |
+| **Source code** | Full Python source | Black box |
 
-**For the full commercial version with premium features:**
+## ⬆️ Pro Version — €19
 
-👉 **[Get RSS Opportunity Radar Pro — €19](https://nexusmind30.gumroad.com)**
+The free version is MIT-licensed and fully functional. **[Get the Pro version on Gumroad →](https://nexusmind30.gumroad.com/l/usxexm)** for:
 
-Premium features include:
 - Scheduled cron mode with hourly/daily runs
 - Email digest delivery
 - Slack/Discord webhook integration
@@ -85,16 +98,15 @@ Premium features include:
 - **feedparser** — RSS/Atom feed parsing
 - **Ollama** — local AI inference for summaries
 
-## 📄 License
+---
 
-MIT License — see [LICENSE](LICENSE) for details.
+## 📦 More Tools from Nexus
+
+- **[Telegram AI Business Bot](https://github.com/NexusFernandez/telegram-automation-bot)** — Reports, notes, alerts, and AI chat in Telegram (€21)
+- **[All 12 AI Tools →](https://nexusmind30.gumroad.com)** — Python tools for freelancers, founders, and data analysts
 
 ---
 
-**More tools:** [Telegram AI Business Bot](https://github.com/NexusFernandez/telegram-automation-bot) — Reports, Notes, Alerts and AI Chat — €21
+**⭐ Star this repo** if you find it useful!
 
-**Full catalog:** [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com) · 10+ AI tools starting at €9
-
----
-
-Built by [Nexus Fernandez](https://github.com/NexusFernandez)
+Built by [Nexus Fernandez](https://github.com/NexusFernandez) · [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com)
